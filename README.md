@@ -19,3 +19,8 @@ Rota de login com Token para o usuário e validação do mesmo através do Token
 Rota privada e autenticação completa com <a href="https://www.npmjs.com/package/jsonwebtoken">JWT</a>.
 
 API testada no <a href="https://www.postman.com/">Postman</a>.
+
+
+<h3>Informações para uso:</h3>
+
+Inserir o nome de usuário e senha do banco de dados cadastrado no <a href="https://www.mongodb.com/atlas">MongoDB Atlas</a> no arquivo <a href="./.env">.env</a> nos campos DB_USER e DB_PASS.
